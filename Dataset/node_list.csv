@@ -1,0 +1,1001 @@
+ID,Label
+1,L. Messi
+2,Cristiano Ronaldo
+3,J. Oblak
+4,R. Lewandowski
+5,Neymar Jr
+6,K. De Bruyne
+7,K. Mbappé
+8,M. ter Stegen
+9,V. van Dijk
+10,Alisson
+11,S. Mané
+12,M. Salah
+13,T. Courtois
+14,S. Agüero
+15,Sergio Ramos
+16,K. Benzema
+17,M. Neuer
+18,Casemiro
+19,Ederson
+20,R. Sterling
+21,J. Kimmich
+22,H. Kane
+23,P. Dybala
+24,S. Handanovič
+25,T. Kroos
+26,E. Hazard
+27,K. Koulibaly
+28,N. Kanté
+29,J. Sancho
+30,T. Alexander-Arnold
+31,Bruno Fernandes
+32,A. Laporte
+33,Fabinho
+34,A. Robertson
+35,Bernardo Silva
+36,G. Chiellini
+37,H. Lloris
+38,L. Suárez
+39,L. Modrić
+40,A. Di María
+41,W. Szczęsny
+42,P. Aubameyang
+43,Sergio Busquets
+44,C. Immobile
+45,K. Navas
+46,A. Griezmann
+47,H. Son
+48,Roberto Firmino
+49,R. Varane
+50,P. Pogba
+51,M. Verratti
+52,A. Gómez
+53,Piqué
+54,David Silva
+55,Y. Sommer
+56,M. Hummels
+57,J. Henderson
+58,Jordi Alba
+59,T. Müller
+60,De Gea
+61,Carvajal
+62,J. Vardy
+63,K. Havertz
+64,G. Donnarumma
+65,M. de Ligt
+66,M. Rashford
+67,L. Sané
+68,F. de Jong
+69,Marquinhos
+70,C. Lenglet
+71,S. Milinković-Savić
+72,M. Škriniar
+73,M. Depay
+74,T. Werner
+75,Rodri
+76,B. Leno
+77,S. Gnabry
+78,Ricardo Pereira
+79,R. Lukaku
+80,Luis Alberto
+81,M. Icardi
+82,H. Ziyech
+83,Thiago Silva
+84,D. Mertens
+85,M. Pjanić
+86,G. Wijnaldum
+87,D. Godín
+88,T. Alderweireld
+89,L. Bonucci
+90,P. Gulácsi
+91,M. Reus
+92,K. Walker
+93,Thiago
+94,Parejo
+95,C. Eriksen
+96,Alex Sandro
+97,Koke
+98,L. Insigne
+99,R. Mahrez
+100,E. Haaland
+101,L. Martínez
+102,Oyarzabal
+103,N. Süle
+104,Arthur
+105,L. Goretzka
+106,Grimaldo
+107,A. Martial
+108,J. Brandt
+109,K. Coman
+110,J. Giménez
+111,A. Onana
+112,W. Ndidi
+113,Saúl
+114,R. Bürki
+115,S. de Vrij
+116,L. Digne
+117,R. Guerreiro
+118,T. Partey
+119,Alex Telles
+120,M. Brozović
+121,Fernandinho
+122,Jesús Navas
+123,K. Schmeichel
+124,S. Sirigu
+125,Lucas Leiva
+126,A. Witsel
+127,Rui Patrício
+128,Azpilicueta
+129,Douglas Costa
+130,Iago Aspas
+131,J. Corona
+132,I. Gueye
+133,D. Alaba
+134,Isco
+135,Pizzi
+136,W. Ben Yedder
+137,J. Iličić
+138,R. Jiménez
+139,Felipe
+140,N. Tagliafico
+141,F. Valverde
+142,M. Ødegaard
+143,O. Dembélé
+144,Gayà
+145,T. Strakosha
+146,Pau López
+147,J. Gomez
+148,S. Bergwijn
+149,F. Mendy
+150,A. Wan-Bissaka
+151,A. Hakimi
+152,A. Romagnoli
+153,D. Alli
+154,D. van de Beek
+155,D. Zakaria
+156,Gabriel Jesus
+157,S. Umtiti
+158,M. Kovačić
+159,João Cancelo
+160,Nélson Semedo
+161,K. Casteels
+162,A. Lopes
+163,M. Sabitzer
+164,Diego Carlos
+165,K. Manolas
+166,J. Matip
+167,Juan Bernat
+168,N. Fekir
+169,Z. Ibrahimović
+170,João Moutinho
+171,S. Mandanda
+172,G. Higuaín
+173,Renato Augusto
+174,C. Vela
+175,B. Matuidi
+176,J. Vertonghen
+177,G. Bale
+178,Marcelo
+179,R. Nainggolan
+180,E. Banega
+181,E. Džeko
+182,A. Vidal
+183,Yuri Berchiche
+184,Fernando
+185,K. Trippier
+186,I. Gündoğan
+187,Paulinho
+188,Oscar
+189,K. Trapp
+190,Coutinho
+191,Muniain
+192,L. Hrádecký
+193,A. Lacazette
+194,Aitor
+195,W. Zaha
+196,C. Aránguiz
+197,D. Tadić
+198,Sergi Roberto
+199,F. Acerbi
+200,Allan
+201,Lucas Moura
+202,T. Hazard
+203,Portu
+204,Jorginho
+205,E. Višća
+206,Gerard Moreno
+207,F. Kostić
+208,D. Zapata
+209,Rafa
+210,M. Dúbravka
+211,M. Acuña
+212,Ronaldo Cabrais
+213,Reguilón
+214,Fabián
+215,L. Hernández
+216,Rúben Neves
+217,G. Lo Celso
+218,A. Areola
+219,Kepa
+220,M. Maignan
+221,Marco Asensio
+222,K. Laimer
+223,H. Maguire
+224,Anderson Talisca
+225,A. Correa
+226,G. Rulli
+227,N. Pépé
+228,Marcos Llorente
+229,M. Perin
+230,E. Can
+231,Pacheco
+232,David Soria
+233,Morata
+234,Gabriel Paulista
+235,N. Pope
+236,L. Ocampos
+237,M. Ginter
+238,D. Djené
+239,J. Pavlenka
+240,G. Buffon
+241,Raúl Albiol
+242,I. Rakitić
+243,M. Özil
+244,D. Payet
+245,L. Bender
+246,Sergio Asenjo
+247,Willian
+248,I. Perišić
+249,F. Muslera
+250,J. Boateng
+251,M. Arnautović
+252,A. Kolarov
+253,A. Ramsey
+254,Canales
+255,D. Blind
+256,Mário Fernandes
+257,O. Baumann
+258,Neto
+259,Rodrigo
+260,J. Rodríguez
+261,Danilo Pereira
+262,A. Marchesín
+263,K. Bellarabi
+264,T. Vaclík
+265,F. Thauvin
+266,Y. Carrasco
+267,Q. Promes
+268,M. Halstenberg
+269,A. Kramarić
+270,R. Gosens
+271,Raphaelito Anjos
+272,Josué Chiamulera
+273,João Félix
+274,A. Davies
+275,H. Aouar
+276,Cucurella
+277,Ferran Torres
+278,Richarlison
+279,M. Diaby
+280,Gonçalo Guedes
+281,C. Pulisic
+282,Rúben Dias
+283,Renan Lodi
+284,O. Vlachodimos
+285,Everton
+286,T. Souček
+287,A. Cragno
+288,M. Dembélé
+289,T. Lemar
+290,Y. Tielemans
+291,J. Maddison
+292,N. Keïta
+293,L. Torreira
+294,P. Kimpembe
+295,B. Pavard
+296,B. Chilwell
+297,Raphinha
+298,B. Mendy
+299,J. Pickford
+300,A. Milik
+301,Jonny
+302,W. Benítez
+303,J. Correa
+304,Iñaki Williams
+305,D. Sánchez
+306,A. Rüdiger
+307,S. Haller
+308,L. Shaw
+309,Fred
+310,Paco Alcácer
+311,S. Savić
+312,E. Andrada
+313,J. Martínez
+314,A. Rabiot
+315,M. Dmitrović
+316,M. Lazzari
+317,Iniesta
+318,Pepe
+319,A. Gignac
+320,H. Herrera
+321,F. Ribéry
+322,A. Consigli
+323,L. Fabiański
+324,S. Ruffier
+325,M. Hamšík
+326,S. Mignolet
+327,Marcano
+328,S. Bender
+329,Javi Martínez
+330,S. Khedira
+331,M. Kruse
+332,Marlos
+333,Taison
+334,E. Salvio
+335,Marcos Alonso
+336,J. Cuadrado
+337,T. Delaney
+338,X. Shaqiri
+339,K. Kampl
+340,S. Coates
+341,Jonathan Viera
+342,Pablo Sarabia
+343,Jordi Masip
+344,J. Cillessen
+345,S. Berghuis
+346,K. Volland
+347,Ismaily
+348,M. Doherty
+349,Felipe Anderson
+350,T. Meunier
+351,Suso
+352,A. Florenzi
+353,S. Arias
+354,E. Zahavi
+355,M. de Roon
+356,I. Fernández
+357,Capa
+358,M. Politano
+359,W. Weghorst
+360,Juiano Mestres
+361,Adryan Zonta
+362,Rosberto Dourado
+363,Louri Beretta
+364,Welington Dano
+365,Nuno Padrenda
+366,Oswaldinato
+367,Vinícius Jr.
+368,N. Barella
+369,N. Mukiele
+370,M. Mount
+371,D. Henderson
+372,T. Ndombele
+373,Éder Militão
+374,A. Saint-Maximin
+375,Diogo Jota
+376,Merino
+377,M. Thuram
+378,Unai Simón
+379,C. Nkunku
+380,N. Vlašić
+381,D. Livaković
+382,V. Tsygankov
+383,Héctor Bellerín
+384,Angeliño
+385,L. Klostermann
+386,Dani Ceballos
+387,O. Zinchenko
+388,L. Bailey
+389,C. Söyüncü
+390,L. Jović
+391,T. Hernández
+392,M. Arambarri
+393,David Neres
+394,M. Gómez
+395,P. Højbjerg
+396,V. Lindelöf
+397,Álex Remiro
+398,J. Stones
+399,K. Zouma
+400,J. Grealish
+401,A. Januzaj
+402,A. Belotti
+403,P. Zieliński
+404,Otávio
+405,D. Rugani
+406,J. Musso
+407,C. Tolisso
+408,H. Lozano
+409,V. Rongier
+410,Gelson Martins
+411,Yeray
+412,Mario Hermoso
+413,M. Ryan
+414,M. Hinteregger
+415,F. Bernardeschi
+416,G. Xhaka
+417,Campaña
+418,N. Schulz
+419,B. Lecomte
+420,J. Draxler
+421,Deulofeu
+422,J. Roussillon
+423,J. Tarkowski
+424,Iñigo Martínez
+425,B. Davies
+426,A. Plea
+427,D. Berardi
+428,K. Demirbay
+429,João Mário
+430,A. Robben
+431,Joaquín
+432,J. Milner
+433,Nani
+434,I. Akinfeev
+435,B. Gomis
+436,F. Quagliarella
+437,M. Dembélé
+438,Falcao
+439,Miranda
+440,J. Evans
+441,E. Lamela
+442,Raúl García
+443,D. Wass
+444,S. Romero
+445,L. Piszczek
+446,Nacho Monreal
+447,Adán
+448,B. Ivanović
+449,S. Kjær
+450,Diego Costa
+451,David Luiz
+452,S. Giovinco
+453,A. Sánchez
+454,Giuliano
+455,Luiz Gustavo
+456,L. Stindl
+457,N. Nkoulou
+458,G. Bonaventura
+459,F. Coquelin
+460,Hulk
+461,Pedro
+462,Guaita
+463,L. de Jong
+464,A. Ljajić
+465,Illarramendi
+466,B. André
+467,N. Matić
+468,Ricardo Goulart
+469,Escudero
+470,Mario Gaspar
+471,H. Mkhitaryan
+472,André Almeida
+473,Willian José
+474,D. Ings
+475,E. Pérez
+476,G. Krychowiak
+477,S. Aurier
+478,Bartra
+479,C. Bakambu
+480,Nacho Fernández
+481,W. Boly
+482,P. Kadeřábek
+483,D. Suárez
+484,S. Vrsaljko
+485,William Carvalho
+486,Lucas Vázquez
+487,Rubén Peña
+488,F. Armani
+489,M. Vecino
+490,S. Lainer
+491,Maikel Catarino
+492,Héniton Pires
+493,Laure Santeiro
+494,Tony Abranjes
+495,J. Serendero
+496,J. Frendado
+497,M. Baldona
+498,S. Ardero
+499,L. Dálves
+500,M. Nérez
+501,E. Schetino
+502,J. Sildero
+503,S. Mandíquez
+504,D. Upamecano
+505,Rodrygo
+506,P. Foden
+507,Wendel
+508,V. Osimhen
+509,B. Kamara
+510,Dani Olmo
+511,S. Berge
+512,A. Isak
+513,D. Rice
+514,J. Ikoné
+515,F. Neuhaus
+516,P. Estupiñán
+517,D. Zagadou
+518,J. Koundé
+519,Adama Traoré
+520,C. Pavón
+521,R. Bentancur
+522,M. Rashica
+523,H. Barnes
+524,Y. Atal
+525,Junior Firpo
+526,J. Tah
+527,A. Christensen
+528,A. Miranchuk
+529,W. Barrios
+530,Munir
+531,D. Calvert-Lewin
+532,H. Winks
+533,L. Pellegrini
+534,André Silva
+535,Zubeldia
+536,Carlos Soler
+537,S. McTominay
+538,N. Maksimović
+539,P. Rajković
+540,Vinícius
+541,J. Ward-Prowse
+542,N. Aké
+543,Rui Silva
+544,K. Mbabu
+545,V. Lazaro
+546,P. Gollini
+547,J. Denayer
+548,A. Golovin
+549,Pablo Fornals
+550,K. Dolberg
+551,D. Dumfries
+552,L. Paredes
+553,Matheus
+554,Emerson
+555,M. Sanson
+556,L. Dubois
+557,B. Santamaria
+558,J. Weigl
+559,R. Bensebaini
+560,Joan Jordán
+561,E. Bailly
+562,E. Ávila
+563,Odriozola
+564,E. Bardhi
+565,M. Sels
+566,J. Veretout
+567,C. Coady
+568,W. Orban
+569,A. Izzo
+570,T. Bakayoko
+571,E. Mendy
+572,N. Gudelj
+573,A. Oxlade-Chamberlain
+574,M. Bizot
+575,A. Mandi
+576,Rafinha
+577,G. Kondogbia
+578,Fernando
+579,A. Schwolow
+580,M. Arnold
+581,R. Fraser
+582,Gabriel
+583,Omar Mascarell
+584,J. Quintero
+585,Samu Castillejo
+586,André Gomes
+587,P. Max
+588,Ricardo Horta
+589,Paulinho
+590,A. Rebić
+591,Borja Iglesias
+592,R. Malinovskyi
+593,Quaresma
+594,Pepe Reina
+595,G. Ochoa
+596,J. Mascherano
+597,B. Costil
+598,B. Foster
+599,L. Koscielny
+600,Rafinha
+601,D. Rose
+602,D. Valeri
+603,Sokratis
+604,Pedro León
+605,D. Ospina
+606,K. Gameiro
+607,N. Guzmán
+608,M. Díaz
+609,M. Valbuena
+610,Ángel
+611,Juan Mata
+612,Éder
+613,Antunes
+614,O. Giroud
+615,S. Coleman
+616,V. Ćorluka
+617,Sidnei
+618,N. Amrabat
+619,M. Sissoko
+620,M. Parolo
+621,D. Perotti
+622,G. Sigurðsson
+623,S. Feghouli
+624,C. Stuani
+625,S. Ulreich
+626,Y. M'Vila
+627,A. Dzyuba
+628,S. Nzonzi
+629,Alex Teixeira
+630,F. Caputo
+631,Iborra
+632,B. Mee
+633,C. Smalling
+634,Cote
+635,S. El Shaarawy
+636,Ander Herrera
+637,N. Otamendi
+638,F. Orellana
+639,Ai Kesen
+640,Jaume Costa
+641,A. Delort
+642,L. Muriel
+643,João Pedro
+644,Danilo
+645,Lucas Pérez
+646,Ibai Gómez
+647,Vitolo
+648,F. Ghoulam
+649,S. Sané
+650,Álvaro
+651,A. Carrillo
+652,Pozuelo
+653,K. Lala
+654,Mário Rui
+655,L. Milivojević
+656,T. Stepanenko
+657,H. Çalhanoğlu
+658,E. Forsberg
+659,M. Dabbur
+660,Rubén García
+661,A. Hamdallah
+662,F. Fabra
+663,D. Benedetto
+664,M. Casco
+665,Ayoze Pérez
+666,Dani García
+667,Morales
+668,H. Traoré
+669,Zaldúa
+670,Petros
+671,Mata
+672,M. Marega
+673,Ronaldo Esler
+674,Adnan Vidual
+675,Everton Andrão
+676,Melvin Parrela
+677,Gabri Prestão
+678,Luimo Boas Santos
+679,Júnior Moraes
+680,E. Guichón
+681,R. Di Leonardo
+682,E. Riquero
+683,L. Sáreda
+684,Trincão
+685,I. Konaté
+686,Luís Maximiano
+687,Emerson
+688,E. Tapsoba
+689,Antony
+690,A. Meret
+691,I. Sarr
+692,Matheus Cunha
+693,Bruno Guimarães
+694,K. Tierney
+695,C. Stengs
+696,L. Díaz
+697,Pau Torres
+698,D. McNeil
+699,Renato Sanches
+700,G. Montiel
+701,T. Abraham
+702,D. Malen
+703,Gabriel
+704,L. Martínez
+705,R. Loftus-Cheek
+706,N. Elvedi
+707,M. Locatelli
+708,B. Embolo
+709,P. Bernardoni
+710,M. Akanji
+711,Palhinha
+712,S. Serdar
+713,A. Lafont
+714,P. Schick
+715,F. Chiesa
+716,C. Ünder
+717,Melendo
+718,M. Rojas
+719,T. Koopmeiners
+720,Unai Núñez
+721,L. Dendoncker
+722,Rony Lopes
+723,J. Gbamin
+724,S. Lobotka
+725,M. Caldara
+726,R. Borré
+727,K. Piątek
+728,J. Bamba
+729,F. Grillitsch
+730,S. Sensi
+731,F. Sacko
+732,Y. En-Nesyri
+733,O. Kolář
+734,E. Dier
+735,B. Cristante
+736,J. O'Connell
+737,S. Gigot
+738,D. Ćaleta-Car
+739,A. Diallo
+740,Daniel Podence
+741,Domingos Duarte
+742,R. Barkley
+743,E. Martínez
+744,L. Karius
+745,M. Niang
+746,M. Batshuayi
+747,L. Trossard
+748,E. Hysaj
+749,R. Gagliardini
+750,R. Zobnin
+751,Loren
+752,S. Mustafi
+753,L. Dunk
+754,J. Egan
+755,Y. Poulsen
+756,A. Doucouré
+757,F. Schär
+758,De Tomás
+759,José Sá
+760,B. Bourigeaud
+761,J. Amavi
+762,Y. Mina
+763,M. Lanzini
+764,J. Svensson
+765,F. Midtsjø
+766,N. Redmond
+767,Pablo
+768,D. Demme
+769,D. da Costa
+770,Denis Suárez
+771,L. Vietto
+772,M. Keane
+773,S. Kolašinac
+774,J. Nsame
+775,J. Córdoba
+776,Ricardo Esgaio
+777,H. Hateboer
+778,F. Cervi
+779,R. Aguilar
+780,J. Rodríguez
+781,B. Verbič
+782,P. Lees-Melou
+783,M. Almirón
+784,Moyá
+785,B. Yılmaz
+786,A. Mirante
+787,L. López
+788,C. Tévez
+789,J. Sosa
+790,Andrés Fernández
+791,Jorge Molina
+792,M. Debuchy
+793,T. Heaton
+794,�. Radu
+795,M. Škrtel
+796,R. Bertrand
+797,Gervinho
+798,José Fonte
+799,A. Guardado
+800,V. Moses
+801,D. Criscito
+802,A. Candreva
+803,C. Ansaldi
+804,K. Boateng
+805,F. Caicedo
+806,I. Piatti
+807,D. Mbokani
+808,E. Capoue
+809,P. Diop
+810,Guilherme
+811,Víctor Díaz
+812,P. Piatti
+813,M. Musacchio
+814,Rafael Carioca
+815,M. Suárez
+816,L. Acosta
+817,S. Lulić
+818,B. Dost
+819,A. Westwood
+820,De Marcos
+821,M. Hitz
+822,M. Antonio
+823,Maicon
+824,L. Rodríguez
+825,A. Kokorin
+826,C. Wood
+827,E. Stevens
+828,Herrerín
+829,R. Rodríguez
+830,G. Pezzella
+831,Y. Belhanda
+832,Y. El Arabi
+833,Laguardia
+834,Hugo Mallo
+835,C. Wilson
+836,N. Lodeiro
+837,Sérgio Oliveira
+838,P. Herrmann
+839,J. Guilavogui
+840,C. Ortíz
+841,R. Funes Mori
+842,K. Malcuit
+843,D. Vida
+844,N. Pallois
+845,H. Vanaken
+846,Cristian Tello
+847,N. Chadli
+848,D. Sidibé
+849,C. Tătărușanu
+850,R. Freuler
+851,L. Spinazzola
+852,C. Kramer
+853,J. Bořil
+854,T. Inui
+855,F. Novák
+856,Bernard
+857,T. Savanier
+858,Z. Feddal
+859,Leo Baptistao
+860,M. De Sciglio
+861,Manu Trigueros
+862,R. Olsen
+863,R. Saïss
+864,H. Sakai
+865,F. Mollet
+866,C. Günter
+867,D. Machís
+868,R. Steffen
+869,F. Niederlechner
+870,V. Grifo
+871,Nacho
+872,M. Uribe
+873,C. Izquierdoz
+874,I. Marcone
+875,D. Zappacosta
+876,Marcelo Goiano
+877,Sequeira
+878,Wu Lei
+879,Jony
+880,A. Mena
+881,K. Toko-Ekambi
+882,Rubén Alcaraz
+883,Gazzolisco
+884,Wellington Sabrão
+885,Antônio Chiamuloira
+886,Vincente Dourado
+887,Everticinho
+888,Albertinho Dutra
+889,Guilson Paiva
+890,Arturo Inálcio
+891,Fredditinho
+892,Matheus Bardeira
+893,Prazeracinho
+894,A. Nwakaeme
+895,V. Coufal
+896,D. Lenzado
+897,E. Aguerro
+898,S. Luna
+899,S. Tonali
+900,M. Edwards
+901,M. Greenwood
+902,J. David
+903,M. Ihattaren
+904,E. Audero
+905,O. Kabak
+906,Jovane Cabral
+907,D. Kulusevski
+908,J. Boga
+909,E. Palacios
+910,M. Guendouzi
+911,O. Wijndal
+912,R. James
+913,N. De la Cruz
+914,S. Chukwueze
+915,Luiz Felipe
+916,K. Diatta
+917,Galeno
+918,M. Olivera
+919,S. Amrabat
+920,J. Bowen
+921,I. Diop
+922,H. Onyekuru
+923,M. Senesi
+924,Ferro
+925,J. Bednarek
+926,H. Wilson
+927,Z. Çelik
+928,E. Buendía
+929,A. Zambo Anguissa
+930,Córdoba
+931,N. Nández
+932,D. Lukébakio
+933,A. Harit
+934,D. James
+935,N. Mazraoui
+936,O. Yokuşlu
+937,Óliver Torres
+938,D. Origi
+939,Rúben Vezo
+940,T. Castagne
+941,J. Omlin
+942,N. Amiri
+943,T. Kehrer
+944,Hwang Hee Chan
+945,Rubén Duarte
+946,G. Larsonneur
+947,F. Kessié
+948,Marc Roca
+949,J. Lascelles
+950,T. Foket
+951,N. Maupay
+952,A. Iwobi
+953,K. Tete
+954,D. Sinkgraven
+955,A. Sørloth
+956,Unai López
+957,M. Pašalić
+958,M. Holgate
+959,U. Çakır
+960,O. Idrissi
+961,G. Dzhikiya
+962,F. Maouassa
+963,Bruno Viana
+964,Cláudio Ramos
+965,T. Horn
+966,P. Gazzaniga
+967,I. Hayden
+968,A. Thomasson
+969,A. Djiku
+970,J. Lerma
+971,B. Petković
+972,A. Mitrović
+973,M. Simon
+974,Pedro Henrique
+975,G. Escalante
+976,H. Kamara
+977,S. Benrahma
+978,L. Olaza
+979,A. Conti
+980,E. Skhiri
+981,D. Bouanga
+982,T. Minamino
+983,J. Murillo
+984,Sergi Darder
+985,H. Van Crombrugge
+986,M. Nastasić
+987,Sergio Rico
+988,Clinton Mata
+989,A. Masuaku
+990,R. De Paul
+991,W. Cyprien
+992,Gonçalo Paciência
+993,Otávio
+994,Toni Villa
+995,S. Duffy
+996,L. Cabrera
+997,F. Lejeune
+998,Sergi Gómez
+999,L. Unnerstall
+1000,
